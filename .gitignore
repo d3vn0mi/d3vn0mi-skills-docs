@@ -1,0 +1,7 @@
+# HARD BACKSTOP — never commit skill payload into the public docs repo.
+# The sellable skill content lives only in the private d3vn0mi-skills repo.
+skills/
+**/SKILL.md
+**/references/
+*.skill
+.env
