@@ -17,9 +17,10 @@ Claude, Codex, Cursor, and other skills-compatible agents.
 | [threat-intel](docs/threat-intel.md) | Full CTI lifecycle — STIX/TAXII, ATT&CK, hunt hypotheses, CVE prioritization, TLP-marked products |
 | [pentest-report](docs/pentest-report.md) | Engagement-agnostic pentest report engine — CVSS v3.1+v4.0, CWE/CAPEC, retest matrix |
 | [web-pentest](docs/web-pentest.md) | Authorized OWASP-aligned web pentest methodology → client-ready findings |
+| [cert-suggester](docs/cert-suggester.md) | Recommends which security certification to pursue and in what order — ~50 certs, honest & needs-based |
 | [cv-writer](docs/cv-writer.md) | ATS-optimized resumes + tailored cover letters, no fabrication |
 
-_More skills in progress (certification guidance and others)._
+_More skills in progress (certification exam prep and others)._
 
 ## License
 Documentation © d3vn0mi. The skills are proprietary paid products; see each listing on MCP Market.
