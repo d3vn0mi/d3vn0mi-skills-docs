@@ -23,6 +23,7 @@ Claude, Codex, Cursor, and other skills-compatible agents.
 | [cert-suggester](docs/cert-suggester.md) | Recommends which security certification to pursue and in what order — ~50 certs, honest & needs-based |
 | [str-listing-optimizer](docs/str-listing-optimizer.md) | Optimize Airbnb/OTA listings — title, description, amenities, photo brief, ranking levers; honest only |
 | [guest-review-responder](docs/guest-review-responder.md) | Reply to guest reviews well — de-escalation, frameworks, platform norms, complaint patterns; truthful only |
+| [brand-voice-framework](docs/brand-voice-framework.md) | Define + codify your brand voice (attributes, tone matrix, messaging) and apply it on-brand |
 | [restaurant-menu-engineering](docs/restaurant-menu-engineering.md) | Engineer a more profitable menu — matrix analysis, psychology, pricing, copy, layout, dietary labeling |
 | [cv-writer](docs/cv-writer.md) | ATS-optimized resumes + tailored cover letters, no fabrication |
 
