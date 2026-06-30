@@ -23,6 +23,7 @@ Claude, Codex, Cursor, and other skills-compatible agents.
 | [cert-suggester](docs/cert-suggester.md) | Recommends which security certification to pursue and in what order — ~50 certs, honest & needs-based |
 | [str-listing-optimizer](docs/str-listing-optimizer.md) | Optimize Airbnb/OTA listings — title, description, amenities, photo brief, ranking levers; honest only |
 | [guest-review-responder](docs/guest-review-responder.md) | Reply to guest reviews well — de-escalation, frameworks, platform norms, complaint patterns; truthful only |
+| [packing-pro](docs/packing-pro.md) | Trip-tailored packing lists, capsule wardrobe, carry-on technique + essentials — packing-lane only |
 | [detection-engineering](docs/detection-engineering.md) | Author + tune Sigma/YARA detection rules, detection-as-code lifecycle, MITRE ATT&CK coverage — defensive |
 | [email-campaign-writer](docs/email-campaign-writer.md) | Write compliant, permission-based email campaigns — subjects, body/CTA, sequences, deliverability, CAN-SPAM/GDPR/CASL |
 | [geo-aeo-optimizer](docs/geo-aeo-optimizer.md) | Get content cited by AI answer engines (AI Overviews, ChatGPT, Perplexity) — white-hat GEO/AEO audit |
