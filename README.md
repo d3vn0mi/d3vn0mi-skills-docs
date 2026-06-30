@@ -21,6 +21,7 @@ Claude, Codex, Cursor, and other skills-compatible agents.
 | [blue-cert-prep](docs/blue-cert-prep.md) | Hands-on SOC/blue/DFIR exam tutor — log/SIEM, network, hunting, IR + cert map; authorized data only |
 | [offensive-cert-prep](docs/offensive-cert-prep.md) | Hands-on OSCP-domain exam tutor — AD/privesc/web/pivoting + cert map; authorized-lab only |
 | [cert-suggester](docs/cert-suggester.md) | Recommends which security certification to pursue and in what order — ~50 certs, honest & needs-based |
+| [guest-review-responder](docs/guest-review-responder.md) | Reply to guest reviews well — de-escalation, frameworks, platform norms, complaint patterns; truthful only |
 | [restaurant-menu-engineering](docs/restaurant-menu-engineering.md) | Engineer a more profitable menu — matrix analysis, psychology, pricing, copy, layout, dietary labeling |
 | [cv-writer](docs/cv-writer.md) | ATS-optimized resumes + tailored cover letters, no fabrication |
 
