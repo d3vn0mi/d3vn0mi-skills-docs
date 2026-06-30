@@ -17,6 +17,7 @@ Claude, Codex, Cursor, and other skills-compatible agents.
 | [threat-intel](docs/threat-intel.md) | Full CTI lifecycle — STIX/TAXII, ATT&CK, hunt hypotheses, CVE prioritization, TLP-marked products |
 | [pentest-report](docs/pentest-report.md) | Engagement-agnostic pentest report engine — CVSS v3.1+v4.0, CWE/CAPEC, retest matrix |
 | [web-pentest](docs/web-pentest.md) | Authorized OWASP-aligned web pentest methodology → client-ready findings |
+| [cloud-cert-prep](docs/cloud-cert-prep.md) | Hands-on AWS/Azure/GCP cloud-security exam tutor — shared-responsibility, IAM, detection + cert map; own-account only |
 | [blue-cert-prep](docs/blue-cert-prep.md) | Hands-on SOC/blue/DFIR exam tutor — log/SIEM, network, hunting, IR + cert map; authorized data only |
 | [offensive-cert-prep](docs/offensive-cert-prep.md) | Hands-on OSCP-domain exam tutor — AD/privesc/web/pivoting + cert map; authorized-lab only |
 | [cert-suggester](docs/cert-suggester.md) | Recommends which security certification to pursue and in what order — ~50 certs, honest & needs-based |
