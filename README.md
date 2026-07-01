@@ -24,6 +24,7 @@ Claude, Codex, Cursor, and other skills-compatible agents.
 | [str-listing-optimizer](docs/str-listing-optimizer.md) | Optimize Airbnb/OTA listings — title, description, amenities, photo brief, ranking levers; honest only |
 | [guest-review-responder](docs/guest-review-responder.md) | Reply to guest reviews well — de-escalation, frameworks, platform norms, complaint patterns; truthful only |
 | [packing-pro](docs/packing-pro.md) | Trip-tailored packing lists, capsule wardrobe, carry-on technique + essentials — packing-lane only |
+| [ai-governance-policy-builder](docs/ai-governance-policy-builder.md) | Stand up AI governance — risk classification, asset register, AI usage policy, EU AI Act/NIST AI RMF/ISO 42001 mapping |
 | [agentic-ai-security-advisor](docs/agentic-ai-security-advisor.md) | Threat-model + assess agentic/LLM AI — OWASP ASI Top 10, MITRE ATLAS, NIST AI RMF; defensive |
 | [detection-engineering](docs/detection-engineering.md) | Author + tune Sigma/YARA detection rules, detection-as-code lifecycle, MITRE ATT&CK coverage — defensive |
 | [email-campaign-writer](docs/email-campaign-writer.md) | Write compliant, permission-based email campaigns — subjects, body/CTA, sequences, deliverability, CAN-SPAM/GDPR/CASL |
