@@ -30,6 +30,7 @@ Claude, Codex, Cursor, and other skills-compatible agents.
 | [detection-engineering](docs/detection-engineering.md) | Author + tune Sigma/YARA detection rules, detection-as-code lifecycle, MITRE ATT&CK coverage — defensive |
 | [email-campaign-writer](docs/email-campaign-writer.md) | Write compliant, permission-based email campaigns — subjects, body/CTA, sequences, deliverability, CAN-SPAM/GDPR/CASL |
 | [geo-aeo-optimizer](docs/geo-aeo-optimizer.md) | Get content cited by AI answer engines (AI Overviews, ChatGPT, Perplexity) — white-hat GEO/AEO audit |
+| [author-branding](docs/author-branding.md) | Brand every project Claude scaffolds as you — modern README + author across the repo; never strips third-party attribution |
 | [brand-voice-framework](docs/brand-voice-framework.md) | Define + codify your brand voice (attributes, tone matrix, messaging) and apply it on-brand |
 | [restaurant-menu-engineering](docs/restaurant-menu-engineering.md) | Engineer a more profitable menu — matrix analysis, psychology, pricing, copy, layout, dietary labeling |
 | [cv-writer](docs/cv-writer.md) | ATS-optimized resumes + tailored cover letters, no fabrication |
